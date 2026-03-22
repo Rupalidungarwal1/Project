@@ -1,0 +1,32 @@
+{
+    "SHAILESH": {
+        "Crime": "murder",
+        "Cases Registered": 5,
+        "Danger Rating": 9
+    },
+    "HITESH": {
+        "Crime": "Theft",
+        "Cases Registered": 2,
+        "Danger Rating": 2
+    },
+    "SUJAL": {
+        "Crime": "Snatching",
+        "Cases Registered": 6,
+        "Danger Rating": 10
+    },
+    "KEDAR": {
+        "Crime": "Half murder",
+        "Cases Registered": 2,
+        "Danger Rating": 2
+    },
+    "PRIYAL": {
+        "Crime": "5",
+        "Cases Registered": 7,
+        "Danger Rating": 8
+    },
+    "RUPALI": {
+        "Crime": "7",
+        "Cases Registered": 4,
+        "Danger Rating": 9
+    }
+}
